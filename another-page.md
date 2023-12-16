@@ -6,6 +6,6 @@ description: This is just another page
 
 ## Welcome to another page
 
-_jawollja_
+_oh yeah_
 
 [back](./)
